@@ -7,7 +7,7 @@
 2. [What the game looks like](#2-what-the-game-looks-like)
 3. [How to Play](#3-how-to-play)
 4. [How to Run](#4-how-to-run) 
-
+5. [Future Plans](#5-future-plans)
 
 ## 1. Overview 
 
