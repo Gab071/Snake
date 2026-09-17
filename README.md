@@ -3,8 +3,10 @@
 
 ## Table of Contents
 
-1. 
-2. 
+1. [Overview](#1-overview)
+2. [What the game looks like](#2-what-the-game-looks-like)
+3. [How to Play](#3-how-to-play)
+4. [How to Run](#4-how-to-run) 
 
 
 ## 1. Overview 
